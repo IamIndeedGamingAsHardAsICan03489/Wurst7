@@ -52,6 +52,7 @@
   "description.wurst.hack.dolphin": "Makes you bob up in water automatically.\n(just like a dolphin)",
   "description.wurst.hack.excavator": "Automatically breaks all blocks in the selected area.",
   "description.wurst.hack.extraelytra": "Makes the Elytra easier to use.",
+  "description.wurst.hack.tradefill": "Automatically fill merchant items\nNeed click the desired recipe in the trade list at first.",
   "description.wurst.hack.fancychat": "Replaces ASCII characters in sent chat messages with fancier unicode characters. Can be used to bypass curse word filters on some servers.\nDoes not work on servers that block unicode characters.",
   "description.wurst.hack.fastbreak": "Allows you to break blocks faster.\nTip: This works with Nuker.",
   "description.wurst.hack.fastladder": "Allows you to climb up ladders faster.",

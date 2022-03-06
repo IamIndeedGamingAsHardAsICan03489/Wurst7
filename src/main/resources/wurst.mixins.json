@@ -58,6 +58,7 @@
     "TerrainRenderContextMixin",
     "TextVisitFactoryMixin",
     "TitleScreenMixin",
+    "MerchantScreenMixin",
     "WorldMixin"
   ],
   "injectors": {
